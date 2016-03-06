@@ -4,6 +4,7 @@ git:
 branches:
   only:
     - master
+    - mkt-improve-pane-add-item-options
 
 env:
   global:
